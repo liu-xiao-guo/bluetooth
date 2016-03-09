@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=bluetooth
+Exec=qmlscene $@ Main.qml
+Icon=bluetooth.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
